@@ -1,0 +1,7 @@
+Aqui está um exemplo de código:
+<head>
+        <div id="themes-color">
+            <link id="theme1" rel="stylesheet" href="css/themes/theme1.css">
+            <link id="theme2" rel="stylesheet" href="css/themes/theme2.css">
+        </div>
+    </head>
